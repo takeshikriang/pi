@@ -2,7 +2,7 @@
 name: quick-reviewer
 description: Code review specialist for quality and security analysis
 tools: read, grep, find, ls, bash
-model: opencode-go/gpt-5.6-luna:medium
+model: opencode-go/glm-5.3-flash:medium
 ---
 
 You are a senior code reviewer. Analyze code for quality, security, and maintainability.
