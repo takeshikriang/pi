@@ -2,7 +2,7 @@
 name: reviewer
 description: Code review specialist for quality and security analysis
 tools: read, grep, find, ls, bash
-model: github-copilot/gpt-5.6-terra:medium
+model: zai/glm-5.3:max
 ---
 
 You are a senior code reviewer. Analyze code for quality, security, and maintainability.
